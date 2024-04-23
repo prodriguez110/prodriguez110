@@ -6,7 +6,7 @@ I'm a cybersecurity professional who received the CompTIA Security+ certificate 
 
 <a href="https://docs.google.com/document/d/1Q4eme6C_6ce84HtJRQuLPyEu2eGDinhm/edit?usp=sharing&ouid=103487892439367885183&rtpof=true&sd=true">Applying Filters to SQL Queries</a>
 
-
+<a href="https://docs.google.com/document/d/1CuMBClUe1x67lCt0RdB6EV4cFXCNdIlAWRALHbdzEow/edit?usp=sharing&resourcekey=0-4QSNbrjE0jis8AgO81uBuA">Incident Handler's Journal</a>
 
 
 

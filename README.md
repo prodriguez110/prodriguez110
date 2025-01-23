@@ -2,7 +2,7 @@
 
 <details>
   <summary> </summary>
-<h1>Hi, I'm Pete! </h1>
+<h1>I'm Pete! </h1>
 I'm a cybersecurity professional who received the CompTIA Security+ certificate in January 2024 through self-study after completing the Google Cybersecurity Professional Certificate course on Coursera in November 2023. Currently listening to DarkNet Diaries, honing my skills on TryHackMe, and lurking on HackerOne to gain more insight into vulnerability and bug bounty hunting.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
